@@ -12,10 +12,10 @@ spring:
       ddl-auto: update
   datasource:
     # url: jdbc:mysql://192.168.1.3:3306/tododb
-    url: jdbc:mysql://localhost:3306/tododb2?createDatabaseIfNotExist=true
+    url: jdbc:mysql://db4free.net:3306/tod123456?createDatabaseIfNotExist=true
 
-    username: root
-    password: root
+    username: hmidarasslmida  
+    password: 123456789
     driver-class-name: com.mysql.cj.jdbc.Driver
   properties:
     hibernate:
